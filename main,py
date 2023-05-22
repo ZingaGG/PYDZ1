@@ -1,0 +1,11 @@
+# Task 1 
+# Найдите сумму цифр трехзначного числа.
+
+# a = int(input("Enter a = "))
+# res = 0
+
+# while (a > 0):
+#     res += a % 10
+#     a = a // 10
+
+# print(res)
